@@ -132,9 +132,10 @@ id
 
 
 **Credential Attack II**
-- a.	Write the passwd hash for john to a file.
-- b.	Use password list to decrypt hash
-- c.	Use the show cmd to display decrypted password
+- Write the passwd hash for john to a file.
+- Use password list to decrypt hash
+- Use the show cmd to display decrypted password
+
 ![image](https://github.com/ookelvyn/System-attack-and-defense/assets/30266503/b30ffe21-e0b6-482a-859f-b0e1fd27f464)
 
 
