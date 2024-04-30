@@ -32,6 +32,7 @@ curl http://www.crimsonia.net/config/
 ![image](https://github.com/ookelvyn/System-attack-and-defense/assets/30266503/755a9d4d-3c76-4351-b5aa-8159cc26831b)
 
 Then we saw another subdomain MY_fuel.php.bak which we access by using curl http://www.crimsonia.net/config/MY_fuel.php.bak to get the flag
+
 ![image](https://github.com/ookelvyn/System-attack-and-defense/assets/30266503/55fdde77-8788-46c1-8ed3-22ffe5642691)
 
 
